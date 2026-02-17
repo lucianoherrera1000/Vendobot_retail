@@ -1,0 +1,14 @@
+# =========================
+# synonyms.txt (OPCIONAL)
+# =========================
+YES=si,sí,ok,confirmo,dale
+NO=no,cancelo,cancelar
+PRICE=cuanto,cuánto,precio,total,cuesta,sale
+DELIVERY=enviar,envio,domicilio
+PICKUP=retirar,retiro,paso
+PAY_TRANSFER=transferencia,mp,mercado
+PAY_CASH=efectivo
+DONE=nada mas,nada más,listo,gracias,ok gracias,ya esta,ya está
+CANCEL=abortar,cancelar,cancelo,anular
+MOD_INTENT=modificar,cambiar,sin,con,sacar,agregarle
+ADD_FOOD_INTENT=agregar,sumar,otra,ademas,además

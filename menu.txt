@@ -1,0 +1,13 @@
+# =========================
+# menu.txt  (CREAR ESTE ARCHIVO)
+# =========================
+Sandwich Milanesa = $10000
+Milanesa al plato con papas fritas = $10000
+milanesa al plato con puré = $10000
+Pata muslo de pollo con puré = $10000
+Tallarines caseros con salsa bolognesa queso rayado y pan $10000
+Ravioles de pollo y verdura salsa bolognesa queso rayado pan $10000
+Empanadas de carne $1500
+Empanadas de pollo $1500
+Empanadas de jamón y queso $1500
+

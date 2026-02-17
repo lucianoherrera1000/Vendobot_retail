@@ -1,0 +1,8 @@
+PEDIDO #000003
+Pedido a nombre de: luciano
+2 x Pata muslo de pollo con puré
+Dirección: repetto 501
+Envío: $3000
+Pago: efectivo
+Total: $23000
+Demora: 20 min

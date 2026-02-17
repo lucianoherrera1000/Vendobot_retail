@@ -1,0 +1,9 @@
+Fecha: 20260216_045148
+Cliente: luciano
+Pedido:
+- 1 x Sánguche de milanesa
+- 1 x Coca
+Entrega: envio
+Pago: efectivo
+Total: $17500
+Demora: 20 min

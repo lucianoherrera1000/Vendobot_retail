@@ -1,0 +1,10 @@
+PEDIDO
+Fecha: 20260216_143847
+Cliente: luciano herrera
+Pedido:
+- 1 x Pata muslo de pollo con puré
+Dirección: repetto 501
+Entrega: envio
+Pago: efectivo
+Total: $13000
+Demora: 20 min

@@ -1,0 +1,10 @@
+Fecha: 20260216_050816
+Cliente: lucho
+Pedido:
+- 1 x Milanesa al plato con papas fritas
+- 1 x milanesa al plato con puré
+- 1 x Pata muslo de pollo con puré
+Entrega: retiro
+Pago: efectivo
+Total: $30000
+Demora: 20 min

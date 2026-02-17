@@ -1,0 +1,11 @@
+PEDIDO
+Fecha: 20260216_174954
+Cliente: Luciano
+Pedido:
+- 2 x milanesa al plato con puré
+- 1 x Pata muslo de pollo con puré
+Dirección: Repetto 501
+Entrega: envio
+Pago: efectivo
+Total: $33000
+Demora: 20 min

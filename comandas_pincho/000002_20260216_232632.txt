@@ -1,0 +1,9 @@
+PEDIDO #000002
+Pedido a nombre de: luciano
+5 x Empanadas de pollo
+2 x Milanesa al plato con papas fritas
+Dirección: repetto 501
+Envío: $3000
+Pago: efectivo
+Total: $30500
+Demora: 20 min

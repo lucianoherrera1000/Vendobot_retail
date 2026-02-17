@@ -1,0 +1,9 @@
+PEDIDO
+Fecha: 20260216_135229
+Cliente: lucho
+Pedido:
+- 1 x Pata muslo de pollo con puré
+Entrega: envio
+Pago: efectivo
+Total: $13000
+Demora: 20 min

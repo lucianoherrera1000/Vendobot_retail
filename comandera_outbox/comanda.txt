@@ -1,0 +1,10 @@
+PEDIDO
+Fecha: 20260216_181048
+Cliente: lomas turbas
+Pedido:
+- 2 x Sandwich Milanesa
+Dirección: elver
+Entrega: envio
+Pago: efectivo
+Total: $23000
+Demora: 20 min

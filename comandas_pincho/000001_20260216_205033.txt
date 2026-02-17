@@ -1,0 +1,8 @@
+PEDIDO #000001
+Pedido a nombre de: Luciano
+2 x Tallarines caseros con salsa bolognesa queso rayado y pan
+Dirección: Repetto 501
+Envío: $3000
+Pago: efectivo
+Total: $23000
+Demora: 20 min

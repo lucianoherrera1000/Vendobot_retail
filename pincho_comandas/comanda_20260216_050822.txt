@@ -1,0 +1,12 @@
+Fecha: 20260216_050822
+Cliente: lucho
+Pedido:
+- 1 x Milanesa al plato con papas fritas
+- 1 x milanesa al plato con puré
+- 1 x Pata muslo de pollo con puré
+MODIFICACIONES:
+* el sanguche sin lechuga
+Entrega: retiro
+Pago: efectivo
+Total: $30000
+Demora: 20 min

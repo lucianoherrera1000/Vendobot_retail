@@ -1,0 +1,12 @@
+PEDIDO MODIFICADO
+Fecha: 20260216_142638
+Cliente: luciano
+Pedido:
+- 2 x Sandwich Milanesa
+Dirección: repetto 501
+MODIFICACIONES:
+* no
+Entrega: envio
+Pago: efectivo
+Total: $23000
+Demora: 20 min

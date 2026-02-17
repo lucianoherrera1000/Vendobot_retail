@@ -1,0 +1,9 @@
+PEDIDO
+Fecha: 20260216_172312
+Cliente: Luciano
+Pedido:
+- 1 x Sandwich Milanesa
+Entrega: retiro
+Pago: efectivo
+Total: $10000
+Demora: 20 min

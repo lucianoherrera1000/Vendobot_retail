@@ -1,0 +1,12 @@
+Fecha: 20260216_110113
+Cliente: luciano
+Pedido:
+- 1 x Sandwich Milanesa
+- 1 x Pata muslo de pollo con puré
+MODIFICACIONES:
+* puedo modificar?
+* quisiera modificar
+Entrega: envio
+Pago: efectivo
+Total: $23000
+Demora: 20 min
