@@ -1,0 +1,55 @@
+# =========================
+# Archivos sensibles
+# =========================
+.env
+.env.*
+*.env
+
+# Tokens / credenciales
+secrets.*
+credentials.*
+*.key
+*.pem
+
+# =========================
+# Logs y runtime
+# =========================
+*.log
+logs/
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# Entornos virtuales
+# =========================
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# Comandas / outputs locales
+# =========================
+pincho_comandas/
+*.txt
+
+# =========================
+# IDE / SO
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Tests locales
+# =========================
+test_*.py
+
+comanda.txt
+comandas_pincho/
+comanda_outbox/
+order_counter.json
+counter.txt
+data/
